@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32">
+  <image source="bigTileSet.png" width="192" height="192"/>
+  <tile id="0">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="8">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="14">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="37" name="bg" tilewidth="32" tileheight="32">
+  <image source="testBG.png" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="46" name="treeTileSet" tilewidth="32" tileheight="32">
+  <image source="treeTiles.png" width="192" height="192"/>
+ </tileset>
+ <layer name="backgroundLayer" width="30" height="15" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJytVVsKwDAI62Xc6Ebvf739bBAkatruIxTEGh+xtdaaORwBVL/oLouhxFHzyvzNnbvwfKxG5t+DGMx2vpjt7WqPVFwAzJHV7G0XQcX39WwAlDkg302Q9b6adVXncDCw/8GparnamxXfbHcrDWa5ZlpX3yd/on8v+BXMxvMaV/bZ16vqD4G6q/rO7qv/gDL/KL7KufPvqPwPTtRC9w==
+  </data>
+ </layer>
+ <layer name="treeBG" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztklcKwDAMQ3OiDuiAjvtfq/oRGGESp4RSaB8I4/FhK0np58sM0Ci1DupNjPZqWKBVahM0mxjtKbkdD+iU2gbtJkZ6nm81O97F8y23fys830p4Hj2B51EreJN3m/VI/yDnNY/Cm0q36R/kvOZReFPp/fUPcl7zt3IBqScUBQ==
+  </data>
+ </layer>
+ <layer name="treeBG2" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztUlsKwDAI64n2gK2DPe5/rfkTCEWthfavgVARq0aS0sREGxbhOqj3JtyN3CE8K/O1/xFk4WXkbuFD8yP/o3u8wq+Sw3yA9Ze1mo5e8PRrOnqh1G9hpC898F14B8TwgudtD1YN34V3QAwv4OU+EZ9EangHxPACXu4T8UkvL7X0+QFhARLi
+  </data>
+ </layer>
+ <layer name="treeBG3" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4D+QA+I9fHwaQVMgNgUD5+aANlPVkBsjSSHzqcmoKWf8AFq+ole6QGbneSEHSXuhcUXsWGHbBdyXBPrBpg6UuML2S5kvcSmN3LTJS53Eut+YtQBAFyjCqY=
+  </data>
+ </layer>
+ <layer name="collisionLayer" width="30" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztlLsOgCAMRSsO4qAO4oD//6HAQIJNHzZo4uBN7mAfnEYrHgC8wXv22jgQMc1ST2C4M1w1ETFNUs/CzLMRdTjWw31TP/c73CF7RM+usZTDeQsX7yvecylXfDDcSMzIzdmj9l2cwN8b1n9SYxaWdP88LYp5l4t3q5epces3KXXRyJaY9TxqrxzRJ9VqvdgJGsMGsQ==
+  </data>
+ </layer>
+ <layer name="foregroundLayer" width="30" height="15" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFMCACxMIDYC8bEEsMgL2jYGQCUDrngGJ6AjaonfRO6zxQe+VG7aUpEILaq0Jne6Wg9kpSYAYAmMEBnw==
+  </data>
+ </layer>
+</map>

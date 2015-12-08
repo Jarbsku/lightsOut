@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="10" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Tiles" tilewidth="32" tileheight="32">
+  <image source="bigTileSet.png" width="160" height="160"/>
+  <tile id="0">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="slopeLeft" value=""/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="slopeRight" value=""/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="collide" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="collision" width="20" height="10">
+  <data encoding="base64" compression="zlib">
+   eJwTYGBg4KESFgRiDgbqATaoeeJQvjiaPDoflziMDzJPFIiZ8GBmJH2MBNSKAbEAA/4w4UUyj5uAWlqFHz6AKwyJNQ+mn4UBf1jiMg9XfIDClh0Ni6KZie52Nix6CGF86QHkBgAfmQQt
+  </data>
+ </layer>
+</map>

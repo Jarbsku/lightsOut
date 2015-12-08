@@ -1,0 +1,46 @@
+RunningRobo_Atlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+robo
+  rotate: false
+  xy: 0, 0
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: 0
+robo
+  rotate: false
+  xy: 21, 0
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: 1
+robo
+  rotate: false
+  xy: 42, 0
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: 2
+robo
+  rotate: false
+  xy: 0, 32
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: 3
+robo
+  rotate: false
+  xy: 21, 32
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: 4
+robo
+  rotate: false
+  xy: 42, 32
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: 5

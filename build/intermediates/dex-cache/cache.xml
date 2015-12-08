@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jarbsku\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.5.5\8931a097fc80279c6b9ee695560a85c1e280c7ea\gdx-box2d-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8931a097fc80279c6b9ee695560a85c1e280c7ea">
+        <dex dex="D:\workspace\taphold\protos\lightsOut\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.5.5-aafb1a47eecddf290fb4c6ffc1fad3a38c43fe6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jarbsku\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.5.5\9896d723afaeaae8229546119f9abffac5f8dbc7\gdx-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9896d723afaeaae8229546119f9abffac5f8dbc7">
+        <dex dex="D:\workspace\taphold\protos\lightsOut\android\build\intermediates\pre-dexed\debug\gdx-1.5.5-2cea7e780a1340ac38a2237082fd3f4f335eb631.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jarbsku\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.5.5\66f30434d02fbe94f098f75747df94d7136fa251\gdx-freetype-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="66f30434d02fbe94f098f75747df94d7136fa251">
+        <dex dex="D:\workspace\taphold\protos\lightsOut\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.5.5-49a0c592c18d83df572c7f639c7be50b37d7b107.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jarbsku\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.3\e829c3543ab5a6b3ff818615a8620024f6a14fe0\box2dlights-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e829c3543ab5a6b3ff818615a8620024f6a14fe0">
+        <dex dex="D:\workspace\taphold\protos\lightsOut\android\build\intermediates\pre-dexed\debug\box2dlights-1.3-c60acb8bbe60d025f86703cbec9e2c35d2986b48.jar" />
+    </item>
+    <item
+        jar="D:\workspace\taphold\protos\lightsOut\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a9a24a637c989f45c908bbaccb55faf67d9e93a">
+        <dex dex="D:\workspace\taphold\protos\lightsOut\android\build\intermediates\pre-dexed\debug\core-1.0-bd3dabd93a0372fde6fce3cda64e933d34b79538.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jarbsku\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.5.5\16bbdb750c6e557693820bbcd31dd992c0f6839f\gdx-backend-android-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16bbdb750c6e557693820bbcd31dd992c0f6839f">
+        <dex dex="D:\workspace\taphold\protos\lightsOut\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.5.5-16408fa205111560dc9d9d08c38a6588a6e72f5b.jar" />
+    </item>
+
+</items>

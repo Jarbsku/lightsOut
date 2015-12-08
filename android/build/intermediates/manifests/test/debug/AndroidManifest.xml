@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fi.taphold.lightsout.android.test">
+
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="21" />
+
+    <application>
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="fi.taphold.lightsout.android"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for fi.taphold.lightsout.android"/>
+</manifest>
